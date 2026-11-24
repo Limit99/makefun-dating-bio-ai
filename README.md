@@ -11,3 +11,5 @@ Entry line:
 > Part-time model, full-time overthinker. I reply in 0.3 seconds and still take three days to text back.
 
 Run it with: `node main.ts`
+
+Gate: one line of 1 to 180 characters.

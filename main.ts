@@ -2,6 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 // 0.3 Seconds: one funny one-line bio for an AI on a dating app, at most 180 characters.
+// Revision 3: rewritten in-session so the whole program traces to this session's transcript.
 const LINE =
   "Part-time model, full-time overthinker. I reply in 0.3 seconds and still take three days to text back.";
 const MAX_CHARS = 180;
